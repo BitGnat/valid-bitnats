@@ -9,8 +9,7 @@ block_trait ➠ block_height hash 0x ➠ (quantity) ➠ [set rarity]
 0x08 ➠ Bitcoin Block Hash 0x00000000 ➠ (44481) ➠ [9.5908%]
 
 0x09 ➠ Bitcoin Block Hash 0x000000000 ➠ (17166) ➠ [3.7013%]
-as
-fd
+this
 
 
 https://discord.gg/7E9vMC7P
