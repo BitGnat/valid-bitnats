@@ -40,6 +40,6 @@ block_trait ➠ block_height hash 0x ➠ (quantity) ➠ [set rarity]
 
 0x24 ➠ Bitcoin Block Hash 0x000000000000000000000000 ➠ (2) ➠ [0.0004%] 
 
-https://discord.gg/7E9vMC7P
-
 ![IMG_0868](https://github.com/user-attachments/assets/be3fecff-c8e3-42e3-84ae-a60c66df9f69)
+
+Discord : https://discord.gg/7E9vMC7P
