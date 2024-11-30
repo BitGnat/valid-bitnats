@@ -1,6 +1,6 @@
 ⦻ the bitnats ordinal inscription collection ⦻
 
-base-bitnats-blocks ⦻ inscription_number@index0 ⦻ block_height.bitnats
+base-bitnats-block, inscription_number, inscription_id, block_trait
 
 https://discord.gg/7E9vMC7P
 
