@@ -1,4 +1,4 @@
-⦻ the bitnats ordinal inscription collection ⦻
+**⦻ the bitnats ordinal inscription collection ⦻**
 
 base-bitnats-block, inscription_number, inscription_id, block_trait
 
@@ -9,6 +9,8 @@ block_trait ➠ block_height hash 0x ➠ (quantity) ➠ [set rarity]
 0x08 ➠ Bitcoin Block Hash 0x00000000 ➠ (44481) ➠ [9.5908%]
 
 0x09 ➠ Bitcoin Block Hash 0x000000000 ➠ (17166) ➠ [3.7013%]
+as
+fd
 
 
 https://discord.gg/7E9vMC7P
