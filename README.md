@@ -4,7 +4,7 @@ base-bitnats-block, inscription_number, inscription_id, block_trait
 
 base-bitnats-block ➠  block_height.bitnats @ [inscription_id]i0 ➠ first-is-first
 
-block_trait ➠ block_height hash 0x ➠ (quantity) ➠ [set rarity]
+block_trait ➠ block_height hash 0x ➠ (quantity inscribed) ➠ [set rarity]
 
 0x08 ➠ Bitcoin Block Hash 0x00000000 ➠ (44481) ➠ [9.5908%]
 
